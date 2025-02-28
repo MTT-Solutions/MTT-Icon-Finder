@@ -7,10 +7,18 @@
     { "name": "128", "url": "assets/icon-128.png", "tags": ["MTT", "128"] },
     { "name": "256", "url": "assets/icon-256.png", "tags": ["MTT", "256"] },
     { "name": "512", "url": "assets/icon-512.png", "tags": ["MTT", "512"] },
+    { "name": "Logo Filled", "url": "assets/logo-filled.png", "tags": ["Logo", "Filled", "MTT"] },
+    { "name": "Logo Transparent", "url": "assets/logo-transparent.png", "tags": ["Logo", "Transparent", "MTT"] },
     { "name": "Material", "url": "assets/sap/material.svg", "tags": ["Material", "Werkstoff", "Artikel", "Produkt", "SAP"] },
     { "name": "SAP-Charge", "url": "assets/sap/charge.svg", "tags": ["Charge", "SAP", "Batch", "Los", "Material"] },
     { "name": "Stücklisten-Kopf", "url": "assets/sap/stuecklisten-kopf.svg", "tags": ["Stücklisten-Kopf", "BOMHeader", "Kopf", "Stückliste", "SAP"] },
     { "name": "Stücklisten-Position", "url": "assets/sap/stuecklisten-position.svg", "tags": ["Stücklisten-Position", "BOMItem", "Position", "Stückliste", "SAP"] },
-    { "name": "Zylinderkopfdichtung", "url": "assets/sap/zylinderkopfdichtung.svg", "tags": ["Zylinderkopfdichtung", "Dichtung", "Motor", "Ersatzteil", "SAP"] }
+    { "name": "Zylinderkopfdichtung", "url": "assets/sap/zylinderkopfdichtung.svg", "tags": ["Zylinderkopfdichtung", "Dichtung", "Motor", "Ersatzteil", "SAP"] },
+    { "name": "Achtung Baustelle", "url": "assets/sap/Achtung Baustelle.png", "tags": ["Achtung", "Baustelle", "Warnung", "Schild", "SAP"] },
+    { "name": "KMAT Concept", "url": "assets/sap/kmat_concept.svg", "tags": ["KMAT", "Concept", "SAP"] },
+    { "name": "Materialvariante Konzept", "url": "assets/sap/Materialvariante-konzept.svg", "tags": ["Materialvariante", "Konzept", "SAP"] },
+    { "name": "Zylinderkopfdichtung", "url": "assets/parts/zylinderkopfdichtung.svg", "tags": ["Zylinderkopfdichtung", "Dichtung", "Motor", "Ersatzteil", "SAP"] },
+    { "name": "Configure to Order", "url": "assets/prozess/Configure-to-order.svg", "tags": ["Configure", "Order", "Prozess", "SAP"] },
+    { "name": "Make to Stock", "url": "assets/prozess/Make-to-stock.svg", "tags": ["Make", "Stock", "Prozess", "SAP"] }
   ]
 }

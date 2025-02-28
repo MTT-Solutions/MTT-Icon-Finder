@@ -67,6 +67,14 @@ module.exports = async (env, options) => {
             to: "assets/sap/[name][ext][query]",
           },
           {
+            from: "assets/prozess/*",
+            to: "assets/prozess/[name][ext][query]",
+          },
+          {
+            from: "assets/parts/*",
+            to: "assets/parts/[name][ext][query]",
+          },
+          {
             from: "manifest*.xml",
             to: "[name]" + "[ext]",
             transform(content) {
