@@ -1,0 +1,16 @@
+{
+  "icons": [
+    { "name": "16", "url": "assets/icon-16.png", "tags": ["MTT", "16"] },
+    { "name": "32", "url": "assets/icon-32.png", "tags": ["MTT", "32"] },
+    { "name": "80", "url": "assets/icon-80.png", "tags": ["MTT", "80"] },
+    { "name": "64", "url": "assets/icon-64.png", "tags": ["MTT", "64"] },
+    { "name": "128", "url": "assets/icon-128.png", "tags": ["MTT", "128"] },
+    { "name": "256", "url": "assets/icon-256.png", "tags": ["MTT", "256"] },
+    { "name": "512", "url": "assets/icon-512.png", "tags": ["MTT", "512"] },
+    { "name": "Material", "url": "assets/sap/material.svg", "tags": ["Material", "Werkstoff", "Artikel", "Produkt", "SAP"] },
+    { "name": "SAP-Charge", "url": "assets/sap/charge.svg", "tags": ["Charge", "SAP", "Batch", "Los", "Material"] },
+    { "name": "Stücklisten-Kopf", "url": "assets/sap/stuecklisten-kopf.svg", "tags": ["Stücklisten-Kopf", "BOMHeader", "Kopf", "Stückliste", "SAP"] },
+    { "name": "Stücklisten-Position", "url": "assets/sap/stuecklisten-position.svg", "tags": ["Stücklisten-Position", "BOMItem", "Position", "Stückliste", "SAP"] },
+    { "name": "Zylinderkopfdichtung", "url": "assets/sap/zylinderkopfdichtung.svg", "tags": ["Zylinderkopfdichtung", "Dichtung", "Motor", "Ersatzteil", "SAP"] }
+  ]
+}
