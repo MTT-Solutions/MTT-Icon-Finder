@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:bt="http://schemas.microsoft.com/office/officeappbasictypes/1.0" xmlns:ov="http://schemas.microsoft.com/office/taskpaneappversionoverrides" xsi:type="TaskPaneApp">
   <Id>8d2c5bc5-ac63-4788-a4e9-6715ed3fe5f8</Id>
-  <Version>1.0.0.2</Version>
+  <Version>1.0.0.3</Version>
   <ProviderName>MTT Solutions</ProviderName>
   <DefaultLocale>de-De</DefaultLocale>
   <DisplayName DefaultValue="MTT Icon Finder"/>
   <Description DefaultValue="A template to get started."/>
-  <IconUrl DefaultValue="https://mttsolutions.sharepoint.com/:f:/s/MTTPublic/Ek75q96zzZxDnFRIoIVIZYgBh59xSX6bPOQBoZZQ665n0Q/assets/icon-32.png"/>
-  <HighResolutionIconUrl DefaultValue="https://mttsolutions.sharepoint.com/:f:/s/MTTPublic/Ek75q96zzZxDnFRIoIVIZYgBh59xSX6bPOQBoZZQ665n0Q/assets/icon-64.png"/>
-  <SupportUrl DefaultValue="https://www.contoso.com/help"/>
+  <IconUrl DefaultValue="https://github.com/MTT-Solutions/MTT-Icon-Finder/distassets/icon-32.png"/>
+  <HighResolutionIconUrl DefaultValue="https://github.com/MTT-Solutions/MTT-Icon-Finder/distassets/icon-64.png"/>
+  <SupportUrl DefaultValue="https://mtt-solutions.github.io/MTT-Icon-Finder/"/>
   <AppDomains>
-    <AppDomain>https://mttsolutions.sharepoint.com/:f:/s/MTTPublic/</AppDomain>
+    <AppDomain>https://mtt-solutions.github.io/MTT-Icon-Finder/</AppDomain>
   </AppDomains>
   <Hosts>
     <Host Name="Presentation"/>
   </Hosts>
   <DefaultSettings>
-    <SourceLocation DefaultValue="https://mttsolutions.sharepoint.com/:f:/s/MTTPublic/Ek75q96zzZxDnFRIoIVIZYgBh59xSX6bPOQBoZZQ665n0Q/taskpane.html"/>
+    <SourceLocation DefaultValue="https://github.com/MTT-Solutions/MTT-Icon-Finder/disttaskpane.html"/>
   </DefaultSettings>
   <Permissions>ReadWriteDocument</Permissions>
   <VersionOverrides xmlns="http://schemas.microsoft.com/office/taskpaneappversionoverrides" xsi:type="VersionOverridesV1_0">
@@ -62,14 +62,14 @@
     </Hosts>
     <Resources>
       <bt:Images>
-        <bt:Image id="Icon.16x16" DefaultValue="https://mttsolutions.sharepoint.com/:f:/s/MTTPublic/Ek75q96zzZxDnFRIoIVIZYgBh59xSX6bPOQBoZZQ665n0Q/assets/icon-16.png"/>
-        <bt:Image id="Icon.32x32" DefaultValue="https://mttsolutions.sharepoint.com/:f:/s/MTTPublic/Ek75q96zzZxDnFRIoIVIZYgBh59xSX6bPOQBoZZQ665n0Q/assets/icon-32.png"/>
-        <bt:Image id="Icon.80x80" DefaultValue="https://mttsolutions.sharepoint.com/:f:/s/MTTPublic/Ek75q96zzZxDnFRIoIVIZYgBh59xSX6bPOQBoZZQ665n0Q/assets/icon-80.png"/>
+        <bt:Image id="Icon.16x16" DefaultValue="https://github.com/MTT-Solutions/MTT-Icon-Finder/distassets/icon-16.png"/>
+        <bt:Image id="Icon.32x32" DefaultValue="https://github.com/MTT-Solutions/MTT-Icon-Finder/distassets/icon-32.png"/>
+        <bt:Image id="Icon.80x80" DefaultValue="https://github.com/MTT-Solutions/MTT-Icon-Finder/distassets/icon-80.png"/>
       </bt:Images>
       <bt:Urls>
         <bt:Url id="GetStarted.LearnMoreUrl" DefaultValue="https://go.microsoft.com/fwlink/?LinkId=276812"/>
-        <bt:Url id="Commands.Url" DefaultValue="https://mttsolutions.sharepoint.com/:f:/s/MTTPublic/Ek75q96zzZxDnFRIoIVIZYgBh59xSX6bPOQBoZZQ665n0Q/commands.html"/>
-        <bt:Url id="Taskpane.Url" DefaultValue="https://mttsolutions.sharepoint.com/:f:/s/MTTPublic/Ek75q96zzZxDnFRIoIVIZYgBh59xSX6bPOQBoZZQ665n0Q/taskpane.html"/>
+        <bt:Url id="Commands.Url" DefaultValue="https://github.com/MTT-Solutions/MTT-Icon-Finder/distcommands.html"/>
+        <bt:Url id="Taskpane.Url" DefaultValue="https://github.com/MTT-Solutions/MTT-Icon-Finder/disttaskpane.html"/>
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="GetStarted.Title" DefaultValue="Get started with your sample add-in!"/>

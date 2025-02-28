@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:bt="http://schemas.microsoft.com/office/officeappbasictypes/1.0" xmlns:ov="http://schemas.microsoft.com/office/taskpaneappversionoverrides" xsi:type="TaskPaneApp">
   <Id>8d2c5bc5-ac63-4788-a4e9-6715ed3fe5f8</Id>
-  <Version>1.0.0.2</Version>
+  <Version>1.0.0.3</Version>
   <ProviderName>MTT Solutions</ProviderName>
   <DefaultLocale>de-De</DefaultLocale>
   <DisplayName DefaultValue="MTT Icon Finder"/>
   <Description DefaultValue="A template to get started."/>
   <IconUrl DefaultValue="https://localhost:3000/assets/icon-32.png"/>
   <HighResolutionIconUrl DefaultValue="https://localhost:3000/assets/icon-64.png"/>
-  <SupportUrl DefaultValue="https://www.contoso.com/help"/>
+  <SupportUrl DefaultValue="https://mtt-solutions.github.io/MTT-Icon-Finder/"/>
   <AppDomains>
-    <AppDomain>https://mttsolutions.sharepoint.com/:f:/s/MTTPublic/</AppDomain>
+    <AppDomain>https://mtt-solutions.github.io/MTT-Icon-Finder/</AppDomain>
   </AppDomains>
   <Hosts>
     <Host Name="Presentation"/>
