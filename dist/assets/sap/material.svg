@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="7.6729164mm"
+   height="6.8791671mm"
+   viewBox="0 0 7.6729164 6.8791671"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="material.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm" />
+  <defs
+     id="defs1">
+    <clipPath
+       id="clip0">
+      <rect
+         x="291"
+         y="360"
+         width="29"
+         height="26"
+         id="rect1" />
+    </clipPath>
+    <clipPath
+       id="clip1">
+      <rect
+         x="0"
+         y="0"
+         width="276225"
+         height="247650"
+         id="rect2" />
+    </clipPath>
+    <image
+       width="41"
+       height="37"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAAAaCAMAAAB8SKeFAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAGMUExURQAAAOQvHuVBGudGGeZFGeEuHuZEGfqmBf/AAP++AOZEGeZIGfqoBeZFGedHGeMvHuhNGOpXFupVFuIwHgAAAGBgVWdYTLY1L+9sEeAlIO0kJICAgFlcUmZqZHmDg45SS/F7DuAlIFVVVV5gV3yFiKK1xZuruJFYVFVVVV5eVoaRl6O2xqW4yYtbVtt2GOaxDPW6BVlZU3iAgWZpY25zcWZqZWVqZGJkXWpva2luaWllTdyrEWFmXY6bpImVnIaSl3d+fpenspOirHiAgIKFeLGSLfO5BmdrZZmptoCKjaO1xY2Znn5zRuKuD2dsZ52uvKCywoOLi6SJLf2/AZmqtpqruHt+cruYJWJkXo+dpp6vvYSPlIKMkHR7epGfqY2bo3J4dIF3Td+sEFpaVXuChHdiXaJzQqiQPKSMN6KJNKaOOqWNOa6PKO21CWZmZlxcU45aVfF7D/6/AFxcUl1gV4iUmqK0xI9aVVVVVWFjWmluaoCKjotWUGBgUFlbUZVDO98mIN8kIOQ3HOElIJe+UxgAAACEdFJOUwBd8//8rKH////+o///onf+///WARhDnv+uDgJnzu76/54Mlf////8Ghf////////8o5////////////3H/////////////tf///////8v///////////99/////////////zDp////////////BZz///8Ztfv//w989///IHi+WE//mFx2iPkAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEQSURBVDhPzdJlUwMxEIDhhQN6uLtbsMUXl6LF3QMUJ8XdHf44k1xhOkeun3m/PrOZnZ0AyEJCDU1h4QohwmVqioyyNDrGLqpYS+OCanxCoqakZGkpqWnpGa6/ZWYBQHZObl5+gf1V0zQLAaCouKSUlTloeUVlFbLqmtrA6n60vgERWSMRUVMzEbW0ErW1d/i1s0spImK3GxF7ehH7+gcGPUqHhjU6Mjo2PiF1ckqnOD0zOydn53W6sLjkkbPLK0o553x1jXO+7uV8Y3Nr29pqZ1fq3r4QwucTQhwcCnF0fOLf+fTMi8jOLy4D+70GXF3f3LI7h1sB3D88Pj07KsDL61sQBXj/l/rxaf/qhmF8wTduVFNx9qkplgAAAABJRU5ErkJggg=="
+       preserveAspectRatio="none"
+       id="img2" />
+    <clipPath
+       id="clip3">
+      <rect
+         x="0"
+         y="0"
+         width="274423"
+         height="247650"
+         id="rect3" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-112.7125,-145.25625)">
+    <g
+       clip-path="url(#clip0)"
+       transform="matrix(0.26458333,0,0,0.26458333,35.71875,50.00625)"
+       id="g5">
+      <g
+         clip-path="url(#clip1)"
+         transform="matrix(1.04987e-4,0,0,1.04987e-4,291,360)"
+         id="g4">
+        <g
+           clip-path="url(#clip3)"
+           transform="matrix(1.00657,0,0,1,0,-0.25)"
+           id="g3">
+          <use
+             width="100%"
+             height="100%"
+             xlink:href="#img2"
+             transform="scale(6693.24)"
+             id="use3" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
