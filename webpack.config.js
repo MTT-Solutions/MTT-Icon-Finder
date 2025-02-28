@@ -33,7 +33,7 @@ module.exports = async (env, options) => {
           test: /\.ts$/,
           exclude: /node_modules/,
           use: {
-            loader: "babel-loader"
+            loader: "babel-loader",
           },
         },
         {
@@ -59,20 +59,8 @@ module.exports = async (env, options) => {
       new CopyWebpackPlugin({
         patterns: [
           {
-            from: "assets/*",
-            to: "assets/[name][ext][query]",
-          },
-          {
-            from: "assets/sap/*",
-            to: "assets/sap/[name][ext][query]",
-          },
-          {
-            from: "assets/prozess/*",
-            to: "assets/prozess/[name][ext][query]",
-          },
-          {
-            from: "assets/parts/*",
-            to: "assets/parts/[name][ext][query]",
+            from: "assets/**/*",
+            to: "[path]/[name][ext][query]",
           },
           {
             from: "manifest*.xml",
