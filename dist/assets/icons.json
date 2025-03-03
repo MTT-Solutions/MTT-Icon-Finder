@@ -21,14 +21,6 @@
     { "name": "Daumen Naja", "url": "assets/icons/daumen-naja.svg", "tags": ["Daumen", "Naja", "Thumbs Middle"] },
     { "name": "Daumen Nein", "url": "assets/icons/daumen-nein.svg", "tags": ["Daumen", "Nein", "Thumbs Down"] },
     { "name": "Optionen Folien Template", "url": "assets/folien-template/optionen-folien-template.svg", "tags": ["Optionen", "Folien", "Template"] },
-    { "name": "16", "url": "assets/icon-16.png", "tags": ["MTT", "16"] },
-    { "name": "32", "url": "assets/icon-32.png", "tags": ["MTT", "32"] },
-    { "name": "80", "url": "assets/icon-80.png", "tags": ["MTT", "80"] },
-    { "name": "64", "url": "assets/icon-64.png", "tags": ["MTT", "64"] },
-    { "name": "128", "url": "assets/icon-128.png", "tags": ["MTT", "128"] },
-    { "name": "256", "url": "assets/icon-256.png", "tags": ["MTT", "256"] },
-    { "name": "512", "url": "assets/icon-512.png", "tags": ["MTT", "512"] },
-    { "name": "Optionen Folien Template", "url": "assets/folien-template/optionen-folien-template.svg", "tags": ["Optionen", "Folien", "Template"] },
     { "name": "Word", "url": "assets/office/word.svg", "tags": ["Word", "Office", "Document"] },
     { "name": "Fiori User", "url": "assets/personen/fiori-user.png", "tags": ["Fiori", "User", "Person"] },
     { "name": "Speziallist Entwickler", "url": "assets/personen/speziallist-entwickler.svg", "tags": ["Speziallist", "Entwickler", "Person"] },
@@ -48,6 +40,13 @@
     { "name": "Requirement Text", "url": "assets/sap/requirement-text.svg", "tags": ["Requirement", "Text", "SAP"] },
     { "name": "Stücklisten Text", "url": "assets/sap/stücklisten-text.svg", "tags": ["Stücklisten", "Text", "BOM", "SAP"] },
     { "name": "Änderungsnummer", "url": "assets/sap/änderungsnummer.svg", "tags": ["Änderungsnummer", "Change Number", "SAP"] },
-    { "name": "Änderungsnummer Text", "url": "assets/sap/änderungsnummer-text.svg", "tags": ["Änderungsnummer", "Text", "Change Number", "SAP"] }
+    { "name": "Änderungsnummer Text", "url": "assets/sap/änderungsnummer-text.svg", "tags": ["Änderungsnummer", "Text", "Change Number", "SAP"] },
+    { "name": "16", "url": "assets/icon-16.png", "tags": ["MTT", "16"] },
+    { "name": "32", "url": "assets/icon-32.png", "tags": ["MTT", "32"] },
+    { "name": "80", "url": "assets/icon-80.png", "tags": ["MTT", "80"] },
+    { "name": "64", "url": "assets/icon-64.png", "tags": ["MTT", "64"] },
+    { "name": "128", "url": "assets/icon-128.png", "tags": ["MTT", "128"] },
+    { "name": "256", "url": "assets/icon-256.png", "tags": ["MTT", "256"] },
+    { "name": "512", "url": "assets/icon-512.png", "tags": ["MTT", "512"] }
   ]
 }
