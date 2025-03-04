@@ -12,7 +12,7 @@
     { "name": "Zylinderkopfdichtung", "url": "assets/sap/zylinderkopfdichtung.svg", "tags": ["Zylinderkopfdichtung", "Dichtung", "Motor", "Ersatzteil", "ZKD"] },
     { "name": "Achtung Baustelle", "url": "assets/sap/achtung-baustelle.png", "tags": ["Achtung", "Baustelle", "Warnung", "Schild", "SAP"] },
     { "name": "Assembly", "url": "assets/sap/assembly.svg", "tags": ["Assembly", "Montage", "SAP"] },
-    { "name": "KMAT Concept", "url": "assets/sap/kmat_concept.svg", "tags": ["KMAT", "Concept", "SAP"] },
+    { "name": "KMAT Concept", "url": "assets/sap/kmat-concept.svg", "tags": ["KMAT", "Concept", "SAP"] },
     { "name": "Materialvariante Konzept", "url": "assets/sap/materialvariante-konzept.svg", "tags": ["Materialvariante", "Konzept", "SAP"] },
     { "name": "Configure to Order", "url": "assets/prozess/configure-to-order.svg", "tags": ["Configure", "Order", "Prozess", "SAP"] },
     { "name": "Make to Stock", "url": "assets/prozess/make-to-stock.svg", "tags": ["Make", "Stock", "Prozess", "SAP"] },
