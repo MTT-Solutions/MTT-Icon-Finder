@@ -20,6 +20,7 @@
     { "name": "Daumen Ja", "url": "assets/icons/daumen-ja.svg", "tags": ["Daumen", "Ja", "Thumbs Up", "OK"] },
     { "name": "Daumen Naja", "url": "assets/icons/daumen-naja.svg", "tags": ["Daumen", "Naja", "Thumbs Middle"] },
     { "name": "Daumen Nein", "url": "assets/icons/daumen-nein.svg", "tags": ["Daumen", "Nein", "Thumbs Down"] },
+    { "name": "Check", "url": "assets/icons/check.svg", "tags": ["Check", "OK", "Ja", "Freigegeben", "Approved"] },
     { "name": "Optionen Folien Template", "url": "assets/folien-template/optionen-folien-template.svg", "tags": ["Optionen", "Folien", "Template"] },
     { "name": "Word", "url": "assets/office/word.svg", "tags": ["Word", "Office", "Document"] },
     { "name": "Fiori User", "url": "assets/personen/fiori-user.png", "tags": ["Fiori", "User", "Person"] },
